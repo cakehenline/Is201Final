@@ -1,0 +1,119 @@
+.homebg {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color:white;
+    background-color: black;
+}
+
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    padding: 7px;
+}
+
+.headerlink {
+    text-decoration: none;
+}
+
+.h4 {
+    font-size: 30px;
+    padding-left: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.h3 {
+    font-size: 20px;
+    margin: 20px;
+}
+
+.h3margin {
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.h3resume {
+    font-size: 17px;
+    padding-left: 20px;
+    padding-top: 25px;
+}
+
+
+.h2 {
+    font-size: 15px;
+}
+
+.haledate {
+    font-size: 15px;
+    padding-left: 700px;
+}
+
+.peakdate {
+    font-size: 15px;
+    padding-left: 635px;
+}
+
+.ecclesdate {
+    font-size: 15px;
+    padding-left: 402px;
+}
+
+.bookdropdate {
+    font-size: 15px;
+    padding-left: 737px;
+}
+
+.byudate {
+    font-size: 15px;
+    padding-left: 710px;
+}
+
+.greendate {
+    font-size: 15px;
+    padding-left: 698px;
+}
+
+
+.center {
+    text-align: center;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.li::before {
+    content: "\2022";
+    color: white;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
+.resume::before {
+    content: "\2022";
+    color: white;
+    display: inline-block;
+    width: 1em;
+    margin-left: 2em;
+}
+
+
+.topofpagelink {
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+}
+
+.footer {
+    right: 5px;
+    left: 5px;
+    bottom: 5px;
+    height: 25px;
+    font-size: 8px;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    position: fixed;
+}
